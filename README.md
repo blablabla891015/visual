@@ -7,7 +7,7 @@ To clone the entire project.
 ## Install Packages
 turn on a terminal
 
-```npm install -g http-server```\n
+```npm install -g http-server\n```
 ```cd visual && yarn install``` 
 
 ## Start

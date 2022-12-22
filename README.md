@@ -11,8 +11,8 @@ turn on a terminal
 ```cd visual && yarn install``` 
 
 ## Start
-under visual/,type:
-```http-server```
+under visual/,type:  
+```http-server```  
 open http://localhost:8080/
 
 

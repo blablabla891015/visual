@@ -12,7 +12,6 @@ turn on a terminal
 
 ## Start
 under visual/,type
-```http-server```
-open http://localhost:8080/
+```http-server``` on a terminal and open http://localhost:8080/
 
 

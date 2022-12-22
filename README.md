@@ -1,18 +1,18 @@
 ## Clone the Project
 
-`git clone ${git_url}` 
+```git clone ${git_url}```
 
 To clone the entire project.
 
 ## Install Packages
 turn on a terminal
 
- ```npm install -g http-server```
- ```cd visual && yarn install``` 
+```npm install -g http-server```\n
+```cd visual && yarn install``` 
 
 ## Start
 under visual/,type:
-`http-server`
+```http-server```
 open http://localhost:8080/
 
 
